@@ -461,7 +461,7 @@ L Device:R_Small R2
 U 1 1 5E55AB2F
 P 3800 5000
 F 0 "R2" V 3725 5000 50  0000 C CNN
-F 1 "20k" V 3650 5000 50  0000 C CNN
+F 1 "22k" V 3650 5000 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3800 5000 50  0001 C CNN
 F 3 "~" H 3800 5000 50  0001 C CNN
 	1    3800 5000
@@ -759,7 +759,7 @@ $EndComp
 Wire Wire Line
 	3200 2700 3600 2700
 $Comp
-L Dunnington:Logo_150mil M1
+L 281D-rescue:Logo_150mil-Dunnington M1
 U 1 1 5E5809A9
 P 2450 6825
 F 0 "M1" H 3625 6950 50  0000 L CNN
@@ -773,7 +773,7 @@ F 6 "DNP" H 2450 6825 50  0001 C CNN "Populate"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Dunnington:Mod_Indicator_1-10_150mil M2
+L 281D-rescue:Mod_Indicator_1-10_150mil-Dunnington M2
 U 1 1 5E58151D
 P 2450 7125
 F 0 "M2" H 3625 7225 50  0000 L CNN
@@ -785,7 +785,7 @@ F 4 "DNP" H 2450 7125 50  0001 C CNN "Populate"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Dunnington:Serial_Box_150mil M3
+L 281D-rescue:Serial_Box_150mil-Dunnington M3
 U 1 1 5E5824E1
 P 2450 7400
 F 0 "M3" H 3625 7500 50  0000 L CNN
